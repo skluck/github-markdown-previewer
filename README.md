@@ -4,6 +4,8 @@ A quick tool built on top of Vue JS 1.x for previewing markdown through Git Hubâ
 
 Built using VueJS 1.x, Vue Resource, and Boostrap 3.3.
 
+Based on Coligio demo: https://coligo.io/markdown-editor-vuejs/ with some minor enhancements.
+
 ## Quick links
 
 - [VueJS 1.0 Docs](http://v1.vuejs.org/guide/)
